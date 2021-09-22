@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354319508954",
+    "project_id": "dengage-532e4",
+    "storage_bucket": "dengage-532e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354319508954:android:a340c1ae312635b3900ce3",
+        "android_client_info": {
+          "package_name": "com.testdeangage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354319508954-hhr8r8b9r4ojn89vm18ui6u3192a86f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8prH8G5Byr-hPtyyiZKuDg5orrIbwHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354319508954-hhr8r8b9r4ojn89vm18ui6u3192a86f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
